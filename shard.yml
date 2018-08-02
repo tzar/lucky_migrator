@@ -19,7 +19,7 @@ dependencies:
     github: luckyframework/lucky_cli
     branch: master
   lucky_record:
-    github: luckyframework/lucky_record
+    github: tzar/lucky_record
     branch: master
   habitat:
     github: luckyframework/habitat
